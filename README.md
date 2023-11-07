@@ -7,6 +7,6 @@ Northwind Traders is a fictitious company used as a scenario for practicing SQL 
 ## Database Setup
 
 To set up the Northwind Traders database, execute the SQL commands provided at the following link:
-[Northwind Database SQL](https://raw.githubusercontent.com/pthom/northwind_psql/master/northwind.sql)
+<a href="https://raw.githubusercontent.com/pthom/northwind_psql/master/northwind.sql" target="_blank">Northwind Database SQL</a>
 
 This will create all necessary tables and populate them with data to simulate a real-world business database.
